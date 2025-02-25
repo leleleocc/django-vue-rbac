@@ -2,14 +2,14 @@
 基于Django5.1和Python3.10的rbac系统
 ## 主要功能
 - 后台验证码登录
-(https://github.com/leleleocc/django-vue-rbac/tree/master/pictures/login.png)
+![image](https://github.com/leleleocc/django-vue-rbac/tree/master/pictures/login.png)
 - 基本的用户管理、角色管理、菜单管理
 - 用户管理(包括用户的增删查改以及角色的分配)
-(https://github.com/leleleocc/django-vue-rbac/tree/master/pictures/user.png)
+![image](https://github.com/leleleocc/django-vue-rbac/tree/master/pictures/user.png)
 - 角色管理(包括角色的增删查改以及权限的分配)
-(https://github.com/leleleocc/django-vue-rbac/tree/master/pictures/role.png)
+![image](https://github.com/leleleocc/django-vue-rbac/tree/master/pictures/role.png)
 - 菜单管理(包括权限路由的增删查改以及权限的分配)
-(https://github.com/leleleocc/django-vue-rbac/tree/master/pictures/menu.png)
+![image](https://github.com/leleleocc/django-vue-rbac/tree/master/pictures/menu.png)
 ## 使用教程
 - 使用前配置setting.py中的database和redis
 - 启用Mysql服务，redis-server启动redis
