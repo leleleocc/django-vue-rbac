@@ -61,7 +61,7 @@
     </el-form>
     <!--  底部  -->
     <div class="el-login-footer">
-      <span>Copyright © 2013-2022 <a href="http://www.python222.com" target="_blank">python222.com</a> 版权所有.</span>
+      <span>Copyright © 2013-2022 <a href="http://www.xxx.com" target="_blank">xxx.com</a> 版权所有.</span>
     </div>
   </div>
 </template>

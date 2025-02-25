@@ -1,0 +1,8 @@
+Django==5.1.6
+django-cors-headers==4.7.0
+django-redis==5.2.0
+djangorestframework==3.14.0
+djangorestframework_simplejwt==5.4.0
+PyMySQL==1.0.3
+redis==4.5.5
+
