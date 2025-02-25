@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/log/manage" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phage/utils/exceptions.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phage/utils/func.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phage/utils/parse_file.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phage/utils/query_set_utils.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phage/utils/query_utils.py" charset="GBK" />
+  </component>
+</project>
